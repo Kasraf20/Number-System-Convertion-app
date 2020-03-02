@@ -1,0 +1,1 @@
+This app is use to convert all the type of convertion like Decimal to Binary,hexadecimal and octal and vice versa. 
